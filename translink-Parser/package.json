@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.3.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.10",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "jsfunctionalprogramming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git"
+  }
+}
